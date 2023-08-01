@@ -12,6 +12,8 @@
 
     <modules>
         <module>jpa-entity</module>
+        <module>web-api</module>
+        <module>web-app</module>
     </modules>
 
     <properties>
